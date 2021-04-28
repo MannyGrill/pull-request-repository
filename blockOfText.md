@@ -21,7 +21,6 @@ We’re all in a glow—
 Nell, Dolly, and Willie, and Dan;
 For the primest of fun,
 When all’s said and done,
-//TODO
 Is just making a big snow man.
 Two stones for his eyes
 Look quite owlishly wise,
