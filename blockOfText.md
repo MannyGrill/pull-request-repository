@@ -40,8 +40,6 @@ And a thaw comes and melts him away.
 ### Phantasmagoria
 *Lewis Carroll*
 
-(This is a long one, but, TL;DR: The narrator encounters a mysterious specter in his house. When asked what he’s doing there, the ghost says:)
-
 “And as to being in a fright,
 Allow me to remark
 That Ghosts have just as good a right
