@@ -21,6 +21,7 @@ We’re all in a glow—
 Nell, Dolly, and Willie, and Dan;
 For the primest of fun,
 When all’s said and done,
+//TODO
 Is just making a big snow man.
 Two stones for his eyes
 Look quite owlishly wise,
@@ -39,8 +40,6 @@ And a thaw comes and melts him away.
 
 ### Phantasmagoria
 *Lewis Carroll*
-
-(This is a long one, but, TL;DR: The narrator encounters a mysterious specter in his house. When asked what he’s doing there, the ghost says:)
 
 “And as to being in a fright,
 Allow me to remark
